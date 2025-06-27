@@ -8,3 +8,8 @@ npm-debug.log*
 # Python
 __pycache__/
 *.py[cod]
+.venv/
+# timestamped txt backups
+*.txt
+rename.py
+.venv/
