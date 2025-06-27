@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "test-1"
+version = "0.1.0"
+description = "A playground repo to demonstrate SSH-authenticated GitHub workflows."
+authors = [ { name="Alejandro Herebia", email="alex.herebia12@gmail.com" } ]
+license = { text="Apache-2.0" }
+readme = "README.md"
+dependencies = []
